@@ -108,7 +108,7 @@
 
     <div class="slider-container">
         <div class="slider-item">
-            <img src="dos.jpg" alt="Imagen 1">
+            <img src="angustia.png" alt="Imagen 1">
         </div>    
        
         <div class="slider-item">
